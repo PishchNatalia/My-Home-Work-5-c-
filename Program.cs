@@ -73,7 +73,7 @@ Console.WriteLine();
 
 */
 //Задача 3. Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
-
+/*
 Console.Write("Введите размер массива: ");
 int size = Convert.ToInt32(Console.ReadLine());
 double[] numbers = new double [size];
@@ -117,3 +117,5 @@ Console.Write("] ");
 
 Console.WriteLine();
 }
+
+*/
